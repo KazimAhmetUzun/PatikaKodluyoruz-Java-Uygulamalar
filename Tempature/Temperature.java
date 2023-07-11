@@ -4,7 +4,7 @@ enum Activity {
     KAYAK, SINEMA, PIKNIK, YUZME
 }
 
-public class Tempature {
+public class Temperature {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
