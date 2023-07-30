@@ -1,0 +1,140 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "Calculator",
+            "projectName": "PatikaKodluyoruz-Java-Uygulamalar_3b0e29ee"
+        },
+        {
+            "type": "java",
+            "name": "DiamondPattern",
+            "request": "launch",
+            "mainClass": "DiamondPattern",
+            "projectName": "PatikaKodluyoruz-Java-Uygulamalar_3b0e29ee"
+        },
+        {
+            "type": "java",
+            "name": "SumOfEvenAndMultiplesOf4",
+            "request": "launch",
+            "mainClass": "SumOfEvenAndMultiplesOf4",
+            "projectName": "PatikaKodluyoruz-Java-Uygulamalar_3b0e29ee"
+        },
+        {
+            "type": "java",
+            "name": "AverageOfNumbers",
+            "request": "launch",
+            "mainClass": "AverageOfNumbers",
+            "projectName": "PatikaKodluyoruz-Java-Uygulamalar_3b0e29ee"
+        },
+        {
+            "type": "java",
+            "name": "ArtikYil",
+            "request": "launch",
+            "mainClass": "ArtikYil",
+            "projectName": "PatikaKodluyoruz-Java-Uygulamalar_3b0e29ee"
+        },
+        {
+            "type": "java",
+            "name": "CinZodyagi",
+            "request": "launch",
+            "mainClass": "CinZodyagi",
+            "projectName": "PatikaKodluyoruz-Java-Uygulamalar_3b0e29ee"
+        },
+        {
+            "type": "java",
+            "name": "ExamMarksMean",
+            "request": "launch",
+            "mainClass": "ExamMarksMean",
+            "projectName": "PatikaKodluyoruz-Java-Uygulamalar_3b0e29ee"
+        },
+        {
+            "type": "java",
+            "name": "Password",
+            "request": "launch",
+            "mainClass": "Password",
+            "projectName": "PatikaKodluyoruz-Java-Uygulamalar_3b0e29ee"
+        },
+        {
+            "type": "java",
+            "name": "SimpleCalculator",
+            "request": "launch",
+            "mainClass": "SimpleCalculator",
+            "projectName": "PatikaKodluyoruz-Java-Uygulamalar_3b0e29ee"
+        },
+        {
+            "type": "java",
+            "name": "BodyMassIndex",
+            "request": "launch",
+            "mainClass": "BodyMassIndex",
+            "projectName": "PatikaKodluyoruz-Java-Uygulamalar_3b0e29ee"
+        },
+        {
+            "type": "java",
+            "name": "BodyMassIndex",
+            "request": "launch",
+            "mainClass": "BodyMassIndex.BodyMassIndex",
+            "projectName": "PatikaKodluyoruz-Java-Uygulamalar_3b0e29ee"
+        },
+        {
+            "type": "java",
+            "name": "GroceryCachierProgram",
+            "request": "launch",
+            "mainClass": "GroceryCachierProgram",
+            "projectName": "PatikaKodluyoruz-Java-Uygulamalar_3b0e29ee"
+        },
+        {
+            "type": "java",
+            "name": "DaireAlaniHesaplama",
+            "request": "launch",
+            "mainClass": "DaireAlaniHesaplama",
+            "projectName": "PatikaKodluyoruz-Java-Uygulamalar_3b0e29ee"
+        },
+        {
+            "type": "java",
+            "name": "taximeter",
+            "request": "launch",
+            "mainClass": "taksimetre.taximeter",
+            "projectName": "PatikaKodluyoruz-Java-Uygulamalar_3b0e29ee"
+        },
+        {
+            "type": "java",
+            "name": "UcgenAlanHesaplama",
+            "request": "launch",
+            "mainClass": "ucgenalan.UcgenAlanHesaplama",
+            "projectName": "PatikaKodluyoruz-Java-Uygulamalar_3b0e29ee"
+        },
+        {
+            "type": "java",
+            "name": "UcgenAlanHesaplama",
+            "request": "launch",
+            "mainClass": "UcgenAlanHesaplama",
+            "projectName": "PatikaKodluyoruz-Java-Uygulamalar_3b0e29ee"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "KDVTutariHesaplama",
+            "request": "launch",
+            "mainClass": "KDV.KDVTutariHesaplama",
+            "projectName": "PatikaKodluyoruz-Java-Uygulamalar_3b0e29ee"
+        },
+        {
+            "type": "java",
+            "name": "NotHesaplama",
+            "request": "launch",
+            "mainClass": "notortalamasi.NotHesaplama",
+            "projectName": "PatikaKodluyoruz-Java-Uygulamalar_3b0e29ee"
+        }
+    ]
+}
