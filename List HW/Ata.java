@@ -1,3 +1,5 @@
+package PatikaKodluyoruz-Java-Uygulamalar.List HW;
+
 public class Ata {
     public static void main(String[] args) {
         MyList<Integer> liste = new MyList<>();
