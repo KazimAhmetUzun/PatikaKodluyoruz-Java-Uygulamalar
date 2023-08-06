@@ -6,7 +6,7 @@ import java.util.Comparator;
 import java.util.List;
 
 class ProductManager {
-    private List<Brand> brands;
+    List<Brand> brands;
     private List<Product> products;
 
     public ProductManager() {
