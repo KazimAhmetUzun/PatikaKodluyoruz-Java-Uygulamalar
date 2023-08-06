@@ -1,6 +1,7 @@
 package Thread;
 
 import java.util.ArrayList;
+import java.util.List;
 
 class NumberThread extends Thread {
     private ArrayList<Integer> numbers;
@@ -11,6 +12,10 @@ class NumberThread extends Thread {
         this.numbers = numbers;
         this.evenNumbersList = evenNumbersList;
         this.oddNumbersList = oddNumbersList;
+    }
+
+    public NumberThread(List<Integer> subList, ArrayList<Integer> evenNumbersList2,
+            ArrayList<Integer> oddNumbersList2) {
     }
 
     @Override
